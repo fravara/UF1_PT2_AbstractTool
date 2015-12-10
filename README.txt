@@ -14,6 +14,7 @@ AbstractTool està pensat per llegir fitxers de text, simula una temàtica del tex
 -Demostració visual dintre del .pdf.
 Gracies espero que et sigui útil!
 
+Castellano
 AbstractTool está pensado para leer archivos de texto, simula una temática del texto a partir de las palabras más recurrentes.
 -En La carpeta Desktop se creará una nueva carpeta, donde debemos depositar nuestro texto a analizar .
 -El Código tiene partes automatizadas y otros no, es necesario cambiar la ruta de ForbiddenWords si queremos que pase el filtro correctamente .
