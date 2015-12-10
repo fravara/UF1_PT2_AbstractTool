@@ -1,0 +1,12 @@
+C:\Users\francesc\Dropbox\DAM_2\m06\UF1\Practica\AbstractTool\AbstractTool\bin\Debug\AbstractTool.exe.config
+C:\Users\francesc\Dropbox\DAM_2\m06\UF1\Practica\AbstractTool\AbstractTool\bin\Debug\AbstractTool.exe
+C:\Users\francesc\Dropbox\DAM_2\m06\UF1\Practica\AbstractTool\AbstractTool\bin\Debug\AbstractTool.pdb
+C:\Users\francesc\Dropbox\DAM_2\m06\UF1\Practica\AbstractTool\AbstractTool\obj\Debug\AbstractTool.csprojResolveAssemblyReference.cache
+C:\Users\francesc\Dropbox\DAM_2\m06\UF1\Practica\AbstractTool\AbstractTool\obj\Debug\AbstractTool.exe
+C:\Users\francesc\Dropbox\DAM_2\m06\UF1\Practica\AbstractTool\AbstractTool\obj\Debug\AbstractTool.pdb
+C:\Users\franc\Dropbox\DAM_2\m06\UF1\Practica\AbstractTool\AbstractTool\bin\Debug\AbstractTool.exe.config
+C:\Users\franc\Dropbox\DAM_2\m06\UF1\Practica\AbstractTool\AbstractTool\obj\Debug\AbstractTool.exe
+C:\Users\franc\Dropbox\DAM_2\m06\UF1\Practica\AbstractTool\AbstractTool\obj\Debug\AbstractTool.pdb
+C:\Users\franc\Dropbox\DAM_2\m06\UF1\Practica\AbstractTool\AbstractTool\bin\Debug\AbstractTool.exe
+C:\Users\franc\Dropbox\DAM_2\m06\UF1\Practica\AbstractTool\AbstractTool\bin\Debug\AbstractTool.pdb
+C:\Users\franc\Dropbox\DAM_2\m06\UF1\Practica\AbstractTool\AbstractTool\obj\Debug\AbstractTool.csprojResolveAssemblyReference.cache
